@@ -105,6 +105,6 @@ nav {
 .info-container .btn-gallery:hover {
   background-color: whitesmoke;
   color: rgb(1, 158, 158);
-  font-size: var(--lg);
+  font-size: 20px;
 }
 
