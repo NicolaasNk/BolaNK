@@ -21,8 +21,6 @@ body {
   overflow-x: hidden;
 }
 
-
-
 .container {
   position: absolute;
   width: 100%;
@@ -36,7 +34,6 @@ body {
 nav {
   display: flex;
   justify-content: center;
-  ;
 }
 .logo {
   width: 100px;
