@@ -59,11 +59,9 @@ nav {
 }
 .navbar-left ul li a,
 .navbar-right ul li a {
-  margin-right: 15px;
+  margin-right: 20px;
   text-decoration: none;
   color: white;
-  padding: 8px;
-  border-radius: 8px;
   opacity: 0.7;
   transition: 0.5s;
 }
@@ -84,8 +82,7 @@ nav {
 
 .info-container .title {
   color: rgb(3, 210, 186);
-  font-size: 5rem;
-  margin: 25px auto;
+  font-size: 80px;
   margin-top: 80px;
   text-align: center;
 }
@@ -94,7 +91,6 @@ nav {
   margin: 45px auto;
   text-align: center;
   font-size: var(--lg);
-  font-weight: 300;
 }
 .info-container .btn-gallery {
   color: whitesmoke;
@@ -102,7 +98,7 @@ nav {
   font-size: var(--md);
   padding: 18px;
   background-color: rgb(0, 179, 185);
-  border-radius: 6px;
+  border-radius: 8px;
   text-decoration: none;
 }
 
